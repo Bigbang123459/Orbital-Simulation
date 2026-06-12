@@ -24,3 +24,14 @@ Instead of using randomized initial values, this simulation fetches and utilizes
 * **Language:** Python
 * **Libraries:** NumPy, Matplotlib, Astroquery, Datetime
 * **Concepts:** Newtonian Mechanics, Vector Calculus, Computational Physics
+
+---
+
+## 🏃‍♂️ How to Run
+1. **Install:**
+   ```bash
+   pip install numpy matplotlib astroquery
+2. **Fetch the latest orbital data from NASA:**
+   run astro_data.py
+3. **Start the 3D Simulation:**
+   run simulation.py
